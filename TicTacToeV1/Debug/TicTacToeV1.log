@@ -1,0 +1,28 @@
+﻿  Window.cpp
+c:\users\santa\documents\visual studio 2015\projects\tictactoev1\tictactoev1\window.h(20): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\santa\documents\visual studio 2015\projects\tictactoev1\tictactoev1\window.cpp(139): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\santa\documents\visual studio 2015\projects\tictactoev1\tictactoev1\window.cpp(140): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\santa\documents\visual studio 2015\projects\tictactoev1\tictactoev1\window.cpp(144): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\santa\documents\visual studio 2015\projects\tictactoev1\tictactoev1\window.cpp(145): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\santa\documents\visual studio 2015\projects\tictactoev1\tictactoev1\window.cpp(147): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\santa\documents\visual studio 2015\projects\tictactoev1\tictactoev1\window.cpp(148): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Shader.cpp
+  Mesh.cpp
+  main.cpp
+c:\users\santa\documents\visual studio 2015\projects\tictactoev1\tictactoev1\window.h(20): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\santa\documents\visual studio 2015\projects\tictactoev1\tictactoev1\main.cpp(204): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\santa\documents\visual studio 2015\projects\tictactoev1\tictactoev1\main.cpp(208): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\santa\documents\visual studio 2015\projects\tictactoev1\tictactoev1\main.cpp(212): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\santa\documents\visual studio 2015\projects\tictactoev1\tictactoev1\main.cpp(216): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\santa\documents\visual studio 2015\projects\tictactoev1\tictactoev1\main.cpp(220): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\santa\documents\visual studio 2015\projects\tictactoev1\tictactoev1\main.cpp(224): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\santa\documents\visual studio 2015\projects\tictactoev1\tictactoev1\main.cpp(228): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\santa\documents\visual studio 2015\projects\tictactoev1\tictactoev1\main.cpp(228): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\santa\documents\visual studio 2015\projects\tictactoev1\tictactoev1\main.cpp(232): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\santa\documents\visual studio 2015\projects\tictactoev1\tictactoev1\main.cpp(236): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\santa\documents\visual studio 2015\projects\tictactoev1\tictactoev1\main.cpp(292): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+c:\users\santa\documents\visual studio 2015\projects\tictactoev1\tictactoev1\window.cpp(86): warning C4715: 'Window::Initialise': not all control paths return a value
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  TicTacToeV1.vcxproj -> c:\users\santa\documents\visual studio 2015\Projects\TicTacToeV1\Debug\TicTacToeV1.exe
+  TicTacToeV1.vcxproj -> c:\users\santa\documents\visual studio 2015\Projects\TicTacToeV1\Debug\TicTacToeV1.pdb (Full PDB)
